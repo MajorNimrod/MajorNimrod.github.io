@@ -1,7 +1,3 @@
----
-title: "Jake House | Game Developer & CS Student"
----
-
 <div align="center">
 
 # Hi, I'm **Jake House**
